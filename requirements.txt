@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-Cors
+gunicorn
+sklearn
+numpy
+pandas
